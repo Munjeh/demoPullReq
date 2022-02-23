@@ -20,8 +20,10 @@ coding
 exercises
 general
 learning-materials
-random
-repos
+random# demoPullReq
+
+how to conflict conflict
+imaging this a huge paragragh about whatever   git push --set-upstream origin feature2
 share
 Channels hinzufügen
 Direktnachrichten
@@ -146,7 +148,10 @@ Markdown Cheatsheet · adam-p/markdown-here Wifeature2
 Paola DCI  14:19 Uhr
 https://www.youtube.com/watch?v=USjZcfj8yxE
 ￼YouTube | Colt Steele
-Learn Git In 15 Minutes ￼
+Learn Git In 15 Minutes ￼# demoPullReq
+
+how to conflict conflict
+imaging this a huge paragragh about whatever   git push --set-upstream origin feature2
 ￼
 ￼￼
 2
